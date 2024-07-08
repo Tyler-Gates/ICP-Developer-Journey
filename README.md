@@ -13,10 +13,10 @@ Level 0: Pre-flight operations
 
 Level 1: Space cadet
 
-* 1.1 Exploring a live demo
-* 1.2 Motoko level 1
-* 1.3 Developing your first dapp
-* 1.4 Acquiring and using cycles
+* 1.1 Exploring a live demo [Completed 7/7/2024 ✔️]
+* 1.2 Motoko level 1 [Completed 7/7/2024 ✔️]
+* 1.3 Developing your first dapp [Completed 7/7/2024 ✔️]
+* 1.4 Acquiring and using cycles [Completed 7/7/2024 ✔️]
 * 1.5 Deploying canisters
 * 1.6 Managing canisters
 
