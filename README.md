@@ -17,8 +17,8 @@ Level 1: Space cadet
 * 1.2 Motoko level 1 [Completed 7/7/2024 ✔️]
 * 1.3 Developing your first dapp [Completed 7/7/2024 ✔️]
 * 1.4 Acquiring and using cycles [Completed 7/7/2024 ✔️]
-* 1.5 Deploying canisters [Completed 7/8/2024 ✔️]
-* 1.6 Managing canisters
+* 1.5 Deploying canisters [Completed 7/8/2024 ✔️] can visit [here](https://2c37r-nqaaa-aaaan-qmpsq-cai.icp0.io/)
+* 1.6 Managing canisters [Completed 7/8/2024 ✔️]
 
 Level 2: Space explorer
 
