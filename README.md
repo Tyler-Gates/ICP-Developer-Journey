@@ -31,12 +31,12 @@ Level 2: Space explorer
 
 Level 3: Space engineer
 
-* 3.1 Motoko package managers
-* 3.2 Using HTTPS outcalls
-* 3.3 Certified data
-* 3.4 Introduction to agents
-* 3.5 Identities and authentication
-* 3.6 Motoko level 3
+* 3.1 Motoko package managers [Completed 7/12/2024 ✔️]
+* 3.2 Using HTTPS outcalls [Completed 7/12/2024 ✔️]
+* 3.3 Certified data [Completed 7/12/2024 ✔️]
+* 3.4 Introduction to agents [Completed 7/12/2024 ✔️]
+* 3.5 Identities and authentication [Completed 7/12/2024 ✔️]
+* 3.6 Motoko level 3 [Completed 7/12/2024 ✔️]
 
 Level 4: Space pilot
 
