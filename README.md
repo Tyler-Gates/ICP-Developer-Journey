@@ -25,8 +25,8 @@ Level 2: Space explorer
 * 2.1 Canister upgrades, storage, and persistence [Completed 7/9/2024 ✔️]
 * 2.2 Advanced canister calls [Completed 7/9/2024 ✔️]
 * 2.3 Using third-party canisters [Completed 7/10/2024 ✔️]
-* 2.4 Introduction to Candid
-* 2.5 Unit, integration, and end2end testing
+* 2.4 Introduction to Candid [Completed 7/11/2024 ✔️]
+* 2.5 Unit, integration, and end2end testing  [Completed 7/11/2024 ✔️]
 * 2.6 Motoko level 2
 
 Level 3: Space engineer
