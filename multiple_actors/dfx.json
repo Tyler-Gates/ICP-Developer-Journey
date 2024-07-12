@@ -1,0 +1,18 @@
+{
+  "canisters": {
+    "character_count": {
+      "main": "src/character_count/main.mo",
+      "type": "motoko"
+    },
+    "daemon": {
+      "main": "src/daemon/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": ""
+    }
+  },
+  "version": 1
+}
