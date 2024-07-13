@@ -40,7 +40,7 @@ Level 3: Space engineer
 
 Level 4: Space pilot
 
-* 4.1 Using the ICP ledger
+* 4.1 Using the ICP ledger [Completed 7/13/2024 ✔️]
 * 4.2 ICRC-1 tokens
 * 4.3 ckBTC and Bitcoin integration
 * 4.4 NNS governance and staking
